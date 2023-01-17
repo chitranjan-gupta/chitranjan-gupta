@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/chitranjan_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chitranjan_1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chitranjan-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chitranjan-gupta" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@know__tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@know__tech" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Know__Tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@know__tech" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
