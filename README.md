@@ -6,4 +6,4 @@
 <p align="left">
 <a href="https://www.youtube.com/@Know__Tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@know__tech" height="30" width="40" /></a>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chitranjan01&" alt="chitranjan01" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chitranjan01&" alt="chitranjan01" /></p>
