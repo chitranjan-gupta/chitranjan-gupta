@@ -5,7 +5,7 @@
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.youtube.com/@Know__Tech" target="_blank">
+  <a href="https://www.youtube.com/@chitranjan_gupta" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="@Know__Tech" height="40" width="40" />
   </a>
 </p>
