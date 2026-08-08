@@ -11,7 +11,7 @@
 </p>
 <h3 align="left">Stats:</h3>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=chitranjan-gupta&show_icons=true&theme=radical" alt="chitranjan-gupta"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitranjan-gupta&layout=pie" alt="chitranjan-gupta"/>
+  <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=chitranjan-gupta&show_icons=true&theme=radical" alt="chitranjan-gupta"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitranjan-gupta&layout=pie" alt="chitranjan-gupta"/> -->
   <img align="left" src="https://streak-stats.demolab.com/?user=chitranjan-gupta" alt="chitranjan-gupta"/>
 </p>
